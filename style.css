@@ -1,0 +1,19 @@
+.div {
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    font-size: 40px;
+    color: white
+}
+
+body {
+    background-color: #EA80FC;
+    text-align: center;
+}
+
+#h1 {
+    color: #b1ff52;
+    font-size: 45px;
+}
